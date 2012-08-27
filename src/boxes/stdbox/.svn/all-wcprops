@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/17/trunk/src/boxes/stdbox
+END
+hooks_memory.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/boxes/stdbox/hooks_memory.py
+END
+hooks_registry.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/boxes/stdbox/hooks_registry.py
+END
+hooks_network.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/boxes/stdbox/hooks_network.py
+END
+hooks_synchronisation.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/boxes/stdbox/hooks_synchronisation.py
+END
+hooks_misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/src/boxes/stdbox/hooks_misc.py
+END
+hooks_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/boxes/stdbox/hooks_file.py
+END
+example_notepad.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/boxes/stdbox/example_notepad.bat
+END
+hooks_executable.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/src/boxes/stdbox/hooks_executable.py
+END
+starter.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/trunk/src/boxes/stdbox/starter.py
+END
+hooks_services.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/src/boxes/stdbox/hooks_services.py
+END
